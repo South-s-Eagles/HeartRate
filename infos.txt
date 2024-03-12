@@ -1,0 +1,20 @@
+espectrofotometria
+
+Aideia consiste em um experimento em vidro, na qual se utiliza um fotodetector para converter a intensidade luminosa incidente de uma determinada substância (Io) e a intensidade luminosa transmitida através dessa substância (I) em corrente elétrica.
+Sendo assim, é possível realizar a transmitância (T) padrão da substância.
+
+Calculo da transmitancia
+T = I / Io 
+
+A partir da transmitancia é possivel determinar o coeficiente de absorção(A)
+𝐴 = 2 − 𝑙𝑜𝑔(𝑇) (2)
+
+A partir do coeficiente de absorção, é possivel encontrar a quantidade de substancia dentro de uma solução
+𝐴 = ϵ(λ)Csd
+
+ϵ(λ) é o coeficiente de extinção da substancia dado um comprimento de onda λ, d é o comprimento do trajeto de luz, e Cs é a concentração da substancia
+
+● Normal: entre 95% e 99% de saturação;
+● Hipoxia leve: entre 91% e 94% de saturação;
+● Hipoxia moderada: entre 80% e 90% de saturação;
+● Hipoxia severa: abaixo de 80% de saturação; 

@@ -1,6 +1,6 @@
 espectrofotometria
 
-Aideia consiste em um experimento em vidro, na qual se utiliza um fotodetector para converter a intensidade luminosa incidente de uma determinada substância (Io) e a intensidade luminosa transmitida através dessa substância (I) em corrente elétrica.
+A ideia consiste em um experimento em vidro, na qual se utiliza um fotodetector para converter a intensidade luminosa incidente de uma determinada substância (Io) e a intensidade luminosa transmitida através dessa substância (I) em corrente elétrica.
 Sendo assim, é possível realizar a transmitância (T) padrão da substância.
 
 Calculo da transmitancia

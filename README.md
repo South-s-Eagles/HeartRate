@@ -1,2 +1,2 @@
-# Oximetro
-Projeto do sensor MAX30100 (Oximetro) de Leonardo Tresinari - RA: 02221027
+# Pulse Sensor
+Projeto do Pulse Sensor (Sensor de frequência cardíaca) de Leonardo Tresinari - RA: 02221027
